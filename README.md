@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yatharth Mago</h1>
+<h1 align="center">Hi 👋, I'm Yatharth Mago!</h1>
 <h3 align="center">Budding Android developer | Competitive programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yatharthmago01&label=Profile%20views&color=0e75b6&style=flat" alt="yatharthmago01" /> </p>
