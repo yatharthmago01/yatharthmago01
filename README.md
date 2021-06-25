@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [FitMate](https://github.com/Code-Sauce-Official/FitMate)
 
-- 👨‍💻 All of my projects are available at [https://github.com/yatharthmago01](https://github.com/yatharthmago01)
+- 👨‍💻 All of my projects are available [here](https://github.com/yatharthmago01?tab=repositories)
 
 - 💬 Ask me about **Java, Android and Kotlin**
 
